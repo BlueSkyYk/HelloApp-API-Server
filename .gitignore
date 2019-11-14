@@ -1,0 +1,8 @@
+/.idea
+*.tmp
+*.exe
+*.exe~
+/.idea/*
+/routers/commentsRouter_controllers.go
+/swagger/swagger.json
+/swagger/swagger.yml
